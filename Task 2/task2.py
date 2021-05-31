@@ -55,7 +55,7 @@ print(t1[2:])
 print(t1[:1])
 
 #Dictionary Datatype
-d1= {1: "dhairya",2:"hello","a1":100}
+d1= {1: "Naimish",2:"hello","a1":100}
 print(d1)
 print(type(d1))
 print(d1[1])
